@@ -1,0 +1,209 @@
+{
+  "users": [
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234561",
+      "username": "alice_smith",
+      "email": "alice@example.com",
+      "password": "password123",
+      "photo": "https://randomuser.me/api/portraits/women/1.jpg",
+      "favToys": [],
+      "createdAt": "2025-08-08T10:00:00Z"
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234562",
+      "username": "mike_jordan_",
+      "email": "mikke@example.com",
+      "password": "password123",
+      "photo": "https://randomuser.me/api/portraits/men/2.jpg",
+      "favToys": [],
+      "createdAt": "2025-08-08T10:05:00Z"
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234563",
+      "username": "sara_connor",
+      "email": "sara@example.com",
+      "password": "password123",
+      "photo": "https://randomuser.me/api/portraits/women/3.jpg",
+      "favToys": [],
+      "createdAt": "2025-08-08T10:08:00Z"
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234564",
+      "username": "david_lee",
+      "email": "david@example.com",
+      "password": "password123",
+      "photo": "https://randomuser.me/api/portraits/men/4.jpg",
+      "favToys": [],
+      "createdAt": "2025-08-08T10:12:00Z"
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234565",
+      "username": "emma_watson",
+      "email": "emma@example.com",
+      "password": "password123",
+      "photo": "https://randomuser.me/api/portraits/women/5.jpg",
+      "favToys": [],
+      "createdAt": "2025-08-08T10:15:00Z"
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234566",
+      "username": "lucas_brown",
+      "email": "lucas@example.com",
+      "password": "password123",
+      "photo": "https://randomuser.me/api/portraits/men/6.jpg",
+      "favToys": [],
+      "createdAt": "2025-08-08T10:18:00Z"
+    }
+  ],
+  "toys": [
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234571",
+      "name": "Creative Math Blocks",
+      "description": "Colorful blocks designed to teach math through play.",
+      "price": 19.99,
+      "ageGroup": "6-8",
+      "learningObjective": ["Math", "Logic"],
+      "imageURL": "https://images.unsplash.com/photo-1587300003388-59208cc962cb",
+      "videoURL": "https://www.youtube.com/watch?v=H14bBuluwB8",
+      "inStock": true
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234572",
+      "name": "Language Learning Cards",
+      "description": "Flashcards that teach basic words and phrases.",
+      "price": 12.99,
+      "ageGroup": "3-5",
+      "learningObjective": ["Language", "Memory"],
+      "imageURL": "https://images.unsplash.com/photo-1508615070457-7baeba4003a5",
+      "videoURL": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
+      "inStock": true
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234573",
+      "name": "Logic Puzzle Kit",
+      "description": "Fun puzzles to enhance problem-solving skills.",
+      "price": 25.5,
+      "ageGroup": "9-12",
+      "learningObjective": ["Logic", "Creativity"],
+      "imageURL": "https://images.unsplash.com/photo-1519682337058-a94d519337bc",
+      "videoURL": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+      "inStock": false
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234574",
+      "name": "Creative Art Kit",
+      "description": "Paints, crayons, and brushes for creative expression.",
+      "price": 15.75,
+      "ageGroup": "6-8",
+      "learningObjective": ["Creativity"],
+      "imageURL": "https://images.unsplash.com/photo-1588072432836-e10032774350",
+      "videoURL": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "inStock": true
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234575",
+      "name": "Memory Match Game",
+      "description": "A fun way to boost memory skills.",
+      "price": 9.5,
+      "ageGroup": "3-5",
+      "learningObjective": ["Memory", "Logic"],
+      "imageURL": "https://images.unsplash.com/photo-1584905066893-7d5c142ba4b3",
+      "videoURL": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+      "inStock": true
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234576",
+      "name": "STEM Robot Kit",
+      "description": "Build and program a small educational robot.",
+      "price": 45.99,
+      "ageGroup": "13+",
+      "learningObjective": ["Logic", "Math", "Creativity"],
+      "imageURL": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238",
+      "videoURL": "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
+      "inStock": true
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234577",
+      "name": "Alphabet Puzzle Board",
+      "description": "Wooden puzzle pieces to learn the alphabet.",
+      "price": 11.25,
+      "ageGroup": "3-5",
+      "learningObjective": ["Language", "Creativity"],
+      "imageURL": "https://images.unsplash.com/photo-1588072432836-e10032774350",
+      "videoURL": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+      "inStock": true
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234578",
+      "name": "Creative Coding Kit",
+      "description": "Learn basic coding concepts through games.",
+      "price": 29.99,
+      "ageGroup": "9-12",
+      "learningObjective": ["Logic", "Math", "Creativity"],
+      "imageURL": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+      "videoURL": "https://www.youtube.com/watch?v=ktvTqknDobU",
+      "inStock": false
+    }
+  ],
+  "carts": [
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234581",
+      "user": "66b4f1a1b8f5c7a1d1234561",
+      "items": [
+        { "toy": "66b4f1a1b8f5c7a1d1234571", "quantity": 2 },
+        { "toy": "66b4f1a1b8f5c7a1d1234575", "quantity": 1 }
+      ],
+      "updatedAt": "2025-08-08T10:20:00Z"
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234582",
+      "user": "66b4f1a1b8f5c7a1d1234563",
+      "items": [
+        { "toy": "66b4f1a1b8f5c7a1d1234576", "quantity": 1 },
+        { "toy": "66b4f1a1b8f5c7a1d1234578", "quantity": 1 }
+      ],
+      "updatedAt": "2025-08-08T10:25:00Z"
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234583",
+      "user": "66b4f1a1b8f5c7a1d1234565",
+      "items": [
+        { "toy": "66b4f1a1b8f5c7a1d1234572", "quantity": 3 }
+      ],
+      "updatedAt": "2025-08-08T10:30:00Z"
+    }
+  ],
+  "orders": [
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234591",
+      "user": "66b4f1a1b8f5c7a1d1234562",
+      "items": [
+        { "toy": "66b4f1a1b8f5c7a1d1234573", "quantity": 1, "price": 25.5 },
+        { "toy": "66b4f1a1b8f5c7a1d1234574", "quantity": 2, "price": 15.75 }
+      ],
+      "total": 57.0,
+      "status": "Pending",
+      "createdAt": "2025-08-08T10:35:00Z"
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234592",
+      "user": "66b4f1a1b8f5c7a1d1234564",
+      "items": [
+        { "toy": "66b4f1a1b8f5c7a1d1234571", "quantity": 1, "price": 19.99 }
+      ],
+      "total": 19.99,
+      "status": "Shipped",
+      "createdAt": "2025-08-08T10:40:00Z"
+    },
+    {
+      "_id": "66b4f1a1b8f5c7a1d1234593",
+      "user": "66b4f1a1b8f5c7a1d1234566",
+      "items": [
+        { "toy": "66b4f1a1b8f5c7a1d1234578", "quantity": 1, "price": 29.99 }
+      ],
+      "total": 29.99,
+      "status": "Delivered",
+      "createdAt": "2025-08-08T10:45:00Z"
+    }
+  ]
+}
