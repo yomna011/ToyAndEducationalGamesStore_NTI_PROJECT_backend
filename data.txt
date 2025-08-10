@@ -1,4 +1,1 @@
-pass : ufrs1FY1iLq5fnl2
-username Toy_Store
-URL :  
-mongodb+srv://Toy_Store:ufrs1FY1iLq5fnl2@cluster0.4soaurx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
